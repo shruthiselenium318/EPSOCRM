@@ -1,0 +1,30 @@
+{
+    "accounts":
+    [
+        {
+            "name":"riya",
+            "website":"www.riya.org",
+            "email":"riya@email.com",
+            "phoneNum":"+18900987890",
+            "type":"Customer",
+            "country":"India"
+        },
+        {
+            "name":"piya",
+            "website":"www.piya.org",
+            "email":"piya@email.com",
+            "phoneNum":"+19887887891",
+            "type":"Investor",
+            "country":"United Kingdom"
+            
+        },
+        {
+            "name":"aarya",
+            "website":"www.aarya.org",
+            "email":"aarya@email.com",
+            "phoneNum":"+19890986673",
+            "type":"Partner",
+            "country":"Spain"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+  "cookies": [
+    {
+      "name": "_ga_R3RHVCTJQG",
+      "value": "GS2.1.s1792912267$o1$g0$t1792912267$j60$l0$h0",
+      "domain": ".espocrm.com",
+      "path": "/",
+      "expires": 1827472267.322732,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.898528657.1792912267",
+      "domain": ".espocrm.com",
+      "path": "/",
+      "expires": 1827472267.323224,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.4.898528657.1792912267",
+      "domain": ".demo.us.espocrm.com",
+      "path": "/",
+      "expires": 1827472269.197383,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.4.1768983612.1792912269",
+      "domain": ".demo.us.espocrm.com",
+      "path": "/",
+      "expires": 1792998669,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-49620728-1",
+      "value": "1",
+      "domain": ".demo.us.espocrm.com",
+      "path": "/",
+      "expires": 1792912329,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth-token-secret",
+      "value": "439e7f0cab74a4b14a4706eb7aa699df",
+      "domain": "demo.us.espocrm.com",
+      "path": "/",
+      "expires": 1827472269.800799,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth-token",
+      "value": "eaa7d9c13cd1ced28e5d7ce773d68b24",
+      "domain": "demo.us.espocrm.com",
+      "path": "/",
+      "expires": 1827472269.81284,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demo.us.espocrm.com",
+      "localStorage": [
+        {
+          "name": "espo-user-lastUserId",
+          "value": "1"
+        },
+        {
+          "name": "cache-1792908031-app-cacheTimestamp",
+          "value": "1792908031"
+        },
+        {
+          "name": "espo-user-auth",
+          "value": "YWRtaW46ZWFhN2Q5YzEzY2QxY2VkMjhlNWQ3Y2U3NzNkNjhiMjQ="
+        },
+        {
+          "name": "cache-1792908031-app-templateBundlesCached",
+          "value": "true"
+        },
+        {
+          "name": "cache-1792908031-app-timestamp",
+          "value": "1792912267465"
+        }
+      ]
+    }
+  ]
+}
